@@ -1,5 +1,5 @@
 pyTelegramBotAPI==3.6.6
-heroku==7.63.0
+heroku==0.1.4
 aiogram==2.22.1
 python==3.10.4
-aiogarm.types
+aiogram.types
